@@ -1,7 +1,7 @@
 ---
 template: post
 title: "【新闻报道】突发，上千辆出租车聚集街头停运维权，交不起份子钱活不下去了！"
-date: 2020-04-16
+date: 2020-03-15
 tags: [xinwen]
 image:
   teaser: /202003/chuzucheweiquan.jpg
