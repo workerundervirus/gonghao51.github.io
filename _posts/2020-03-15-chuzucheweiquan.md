@@ -10,10 +10,8 @@ excerpt_separator: <!--more-->
 
 <div style="width:98%;padding:10px;background-color:black;color:white;margin:0;">
 <strong>近日，广西省柳州市上千辆出租车聚集到街头进行维权。</strong>
-<br><br>
-</div>
-
 <br>
+</div>
 
 <div style="text-align:center"><img src="/images/202003/chuzucheweiquan.jpg" width="90%"></div>
 
