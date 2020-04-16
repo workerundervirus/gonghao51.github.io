@@ -2,16 +2,18 @@
 template: post
 title: "【政策研究】从性别角度看疫情后的复工政策"
 date: 2020-04-16
-tags: [miji,yiqing]
+tags: [zhengce]
 image:
   teaser: /202004/nvgongfugong.jpg
 excerpt_separator: <!--more-->
 ---
 
 <div style="width:98%;padding:10px;background-color:black;color:white;margin:0;">
-<strong>新型冠状病毒肺炎的全球大爆发正在给市场、政府、企业和个人多方带来前所未有的危机，而最大的损失将可能落在那些承受能力最差的人身上。自1月以来，国内针对新冠肺炎爆发的防疫举措中，性别都是一个从未被重视的议题——事实上，女性无论是在居家隔离、前线援助还是后续复工的期间，都不得不在生活与工作的各方面经受更大的负面影响。
+<strong>新型冠状病毒肺炎的全球大爆发正在给市场、政府、企业和个人多方带来前所未有的危机，而最大的损失将可能落在那些承受能力最差的人身上。自1月以来，国内针对新冠肺炎爆发的防疫举措中，性别都是一个从未被重视的议题——事实上，女性无论是在居家隔离、前线援助还是后续复工的期间，都不得不在生活与工作的各方面经受更大的负面影响。</strong>
 <br><br>
-</div><br>
+</div>
+
+<br>
 
 <div style="text-align:center"><img src="/images/202004/nvgongfugong.jpg" width="90%"></div>
 
