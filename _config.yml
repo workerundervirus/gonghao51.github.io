@@ -1,7 +1,7 @@
 # Site wide configuration
 
-title: "工号51"
-description: "51就是一个团结的数字，一个工人当家做主的符号！"
+title: "疫情下的工人"
+description: "我们搜索整理新冠肺炎疫情中工人的处境与行动"
 logo: logo-120x120.jpg # 120x120 px default image used for Twitter summary card
 teaser: teaser.jpg # 400x250 px default teaser image used in image archive grid
 locale: zh
