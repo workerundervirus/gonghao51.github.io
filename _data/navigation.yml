@@ -1,39 +1,11 @@
 # Site navigation links
 
-- title: "一周怪事"
-  url: /guaishi/
+- title: "新闻报道"
+  url: /xinwen/
   excerpt: 
   image: teaser.jpg
   
-- title: "51锐评"
-  url: /shiping/
+- title: "政策研究"
+  url: /zhengce/
   excerpt: 
   image: teaser.jpg
-  
-- title: "打工秘籍"
-  url: /miji/
-  excerpt: 
-  image: teaser.jpg
-  
-- title: "工友爆料"
-  url: /baoliao/
-  excerpt: 
-  image: teaser.jpg
-
-- title: "工友之声"
-  url: /gushi/
-  excerpt: 
-  image: teaser.jpg
-
-- title: "艺述工人"
-  url: /wenyi/
-  excerpt: 
-  image: teaser.jpg
-  
-- title: "国际风暴"
-  url: /guoji/
-  excerpt: 
-  image: teaser.jpg
-
-- title: "51是谁"
-  url: /about/
