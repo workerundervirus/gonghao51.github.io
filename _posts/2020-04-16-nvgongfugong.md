@@ -12,6 +12,7 @@ excerpt_separator: <!--more-->
 <strong>新型冠状病毒肺炎的全球大爆发正在给市场、政府、企业和个人多方带来前所未有的危机，而最大的损失将可能落在那些承受能力最差的人身上。自1月以来，国内针对新冠肺炎爆发的防疫举措中，性别都是一个从未被重视的议题——事实上，女性无论是在居家隔离、前线援助还是后续复工的期间，都不得不在生活与工作的各方面经受更大的负面影响。</strong>
 <br>
 </div>
+<br>
 
 <div style="text-align:center"><img src="/images/202004/nvgongfugong.jpg" width="90%"></div>
 

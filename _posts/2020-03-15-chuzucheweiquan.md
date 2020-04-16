@@ -13,6 +13,8 @@ excerpt_separator: <!--more-->
 <br>
 </div>
 
+<br>
+
 <div style="text-align:center"><img src="/images/202003/chuzucheweiquan.jpg" width="90%"></div>
 
 据了解，柳州市大概有3000辆出租车，其中有近2000辆是公司的车，由驾驶员们缴纳押金承包营运。
