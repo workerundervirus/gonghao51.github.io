@@ -1,23 +1,9 @@
-# Skinny Bones Jekyll Starter
+# 疫情下的工人资讯网站
 
-Just a little something I'm using to jump start a site refresh. I like to think of it as a starter for building your own Jekyll site. I purposely keep the styling minimal and bare to make it easier to add your own flare and markup.
+我们收集与疫情相关的工人经历、新闻、政策分析、评论，既储存已有文章也发布新撰写文章。
 
-![screenshot of Skinny Bones](http://mmistakes.github.io/skinny-bones-jekyll/images/skinny-bones-theme-feature.jpg)
+新增文章请直接在_posts中添加markdown格式的新文章，参照既有文章修改开头格式即可。文中小标题请用`<h3></h3>`，图片可以上传imgur后引用，具体格式请在网路搜寻markdown撰写格式说明。或者上传到images文件夹底下，使用以下格式引用，替换相应路径即可。
 
----
-
-## Notable Features
-
-* Jekyll 3.x and GitHub Pages compatible.
-* Stylesheet built using Sass.
-* Data files for easier customization of the site navigation/footer and for supporting multiple authors.
-* Optional Disqus comments, table of contents, social sharing links, and Google AdSense ads.
-* And more.
-
-## More Jekyll Themes
-
-Check out my more popular Jekyll themes, available as Ruby gems and 100% GitHub Pages compatible.
-
-* [Minimal Mistakes](https://github.com/mmistakes/minimal-mistakes)
-* [So Simple](https://github.com/mmistakes/so-simple-theme)
-* [Basically Basic](https://github.com/mmistakes/jekyll-theme-basically-basic)
+```
+<div style="text-align:center"><img src="/images/202004/nvgongfugong.jpg" width="90%"></div>
+```
