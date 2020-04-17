@@ -1,7 +1,7 @@
 ---
 template: post
 title: "【故事新闻】工资：愤怒！说好的协商在哪里！"
-date: 2020-03-15
+date: 2020-04-02
 tags: [xinwen]
 image:
   teaser: /202004/gongzizaina.jpg
