@@ -1,7 +1,7 @@
 ---
 template: post
 title: "女性劳动者应该平等受惠——从性别角度看疫情后的复工政策&nbsp;|&nbsp;疫情评论"
-date: 2020-04-16
+date: 2020-04-18
 tags: [zhengce]
 image:
   teaser: /202004/nvgongfugong.jpg
