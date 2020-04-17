@@ -349,4 +349,4 @@ excerpt_separator: <!--more-->
       </td>
     </tr></tbody></table></div>
 
-來源：[焦點事件](https://www.eventsinfocus.org/news/7145683?fbclid=IwAR0PahRhsWhQX_oOmeUzwa-v5Te8eUC6yO0p5rJvPqtB_9sg1D-BFHd7tu0)
+原文連結：[焦點事件](https://www.eventsinfocus.org/news/7145683?fbclid=IwAR0PahRhsWhQX_oOmeUzwa-v5Te8eUC6yO0p5rJvPqtB_9sg1D-BFHd7tu0)
