@@ -1,11 +1,11 @@
 # Site navigation links
 
-- title: "故事新闻"
+- title: "疫情新闻"
   url: /xinwen/
   excerpt: 
   image: teaser.jpg
   
-- title: "政策研究"
+- title: "疫情评论"
   url: /zhengce/
   excerpt: 
   image: teaser.jpg

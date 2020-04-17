@@ -1,7 +1,7 @@
 ---
 layout: archive
 permalink: /xinwen/
-title: 新闻报道
+title: 疫情新闻
 ---
 
 <div class="tiles">

@@ -1,7 +1,7 @@
 ---
 layout: archive
 permalink: /zhengce/
-title: 政策研究
+title: 疫情评论
 ---
 
 <div class="tiles">
