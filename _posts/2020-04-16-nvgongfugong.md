@@ -1,6 +1,6 @@
 ---
 template: post
-title: "【政策研究】从性别角度看疫情后的复工政策"
+title: "从性别角度看疫情后的复工政策&nbsp;|&nbsp;疫情评论"
 date: 2020-04-16
 tags: [zhengce]
 image:

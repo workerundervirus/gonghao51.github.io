@@ -1,6 +1,6 @@
 ---
 template: post
-title: "【故事新闻】飢餓比病毒更可怕　孟加拉成衣工人上街自救"
+title: "飢餓比病毒更可怕　孟加拉成衣工人上街自救&nbsp;|&nbsp;疫情新闻"
 date: 2020-04-16
 tags: [xinwen]
 image:

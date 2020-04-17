@@ -1,6 +1,6 @@
 ---
 template: post
-title: "【故事新闻】工资：愤怒！说好的协商在哪里！"
+title: "工资：愤怒！说好的协商在哪里！&nbsp;|&nbsp;疫情新闻"
 date: 2020-04-02
 tags: [xinwen]
 image:
