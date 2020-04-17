@@ -9,7 +9,7 @@ excerpt_separator: <!--more-->
 ---
 
 <div style="width:98%;padding:10px;background-color:black;color:white;margin:0;">
-<strong>來源：焦點事件<br>近幾天來，全球 COVID-19 確診數增加最快的國家，就是南亞的孟加拉，然而，對於依賴工資維生的紡織成衣業工人來說，因為生產停頓而陷入飢餓的困境，比病毒更可怕。4/13，遭受雙重威脅的工人，走上了達卡的街頭…</strong>
+<strong>來源：焦點事件 <br>近幾天來，全球 COVID-19 確診數增加最快的國家，就是南亞的孟加拉，然而，對於依賴工資維生的紡織成衣業工人來說，因為生產停頓而陷入飢餓的困境，比病毒更可怕。4/13，遭受雙重威脅的工人，走上了達卡的街頭…</strong>
 
 <br>
 </div>
