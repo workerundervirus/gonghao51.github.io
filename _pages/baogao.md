@@ -1,7 +1,7 @@
 ---
 layout: archive
 permalink: /baogao/
-title: 疫情调查
+title: 疫情报告
 ---
 
 <div class="tiles">
