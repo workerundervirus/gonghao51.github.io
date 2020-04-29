@@ -46,7 +46,7 @@ excerpt_separator: <!--more-->
 
 当然，新自由主义经济催发的大量非正规就业形态，也显露出短时工作制度的重大缺陷。其中最显而易见的是，它只保护了拥有稳定工作或长期劳动合同的那部分劳动者。尽管新的临时性法案规定劳务机构的临时工/非正式用工也可以获得“短时工作金”，但是临时工在工作场所本缺乏足够谈判话语权和工会力量支持，可预见其具体执行必不理想。德国的劳动力市场越来越自由化（liberalizing），越来越多的人从事不稳定的工作，与雇主没有长期的劳动关系，也难以得到失业保障。这部分劳动者以移民，女性和初入劳动力市场的年轻人为主，在整个社会经济结构中处于弱势地位。 所以这一制度在保护了部分劳动者的同时，也隐性固化甚至是加剧了正规就业和非正规就业劳动者之间的不公平，进一步加剧贫富差距。因此，回应非正规就业劳动者在危机中更为弱势的经济地位，短时工作制必须额外结合其他多元的纾困政策来保证社会中的所有人能在危机中度过难关。
 
-### 🔗相关链接：
+### 相关链接：
 1.  https://www.spiegel.de/international/business/half-a-million-german-companies-have-sent-employees-into-short-time-work-a-a31b487a-5d4e-4adc-9cb6-3bcb0923fe8c
 2. https://www.dw.com/en/short-time-work-a-vital-tool-in-germanys-economic-armory-against-coronavirus/a-52952657
 3. https://uk.reuters.com/article/us-health-coronavirus-germany-kurzarbeit/germanys-short-time-work-fix-offers-europe-a-crisis-model-idUKKBN21Q1SY
