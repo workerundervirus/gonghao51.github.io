@@ -4,7 +4,7 @@ title: "“短时工作制”：以劳动者为主体的德国纾困政策&nbsp;
 date: 2020-04-29
 tags: [zhengce]
 image:
-  teaser: /202004/deguo.jpeg
+  teaser: /202004/deguo.jpg
 excerpt_separator: <!--more-->
 ---
 
@@ -14,7 +14,7 @@ excerpt_separator: <!--more-->
 </div>
 <br>
 
-<div style="text-align:center"><img src="/images/202004/deguo.jpeg" width="90%"></div>
+<div style="text-align:center"><img src="/images/202004/deguo.jpg" width="90%"></div>
 
 作者：因慈
 
