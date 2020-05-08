@@ -9,7 +9,7 @@ excerpt_separator: <!--more-->
 ---
 
 <div style="width:98%;padding:10px;background-color:black;color:white;margin:0;">
-<strong>来源：南方人物周刊 | 这个五一劳动节，很多外贸工人在就业突围的路上</strong>
+<strong>来源：南方人物周刊 | 这个五一劳动节，很多外贸工人在就业突围的路上。</strong>
 <br>
 </div>
 <br>
