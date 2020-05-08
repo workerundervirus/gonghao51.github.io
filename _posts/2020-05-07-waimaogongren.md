@@ -1,6 +1,6 @@
 ---
 template: post
-title: "外贸工人的晚春&nbsp;|&nbsp;疫情新闻"
+title: "无工可打：全球疫情下出口制造业工人面临危机&nbsp;|&nbsp;疫情新闻"
 date: 2020-05-07
 tags: [xinwen]
 image:
@@ -15,6 +15,8 @@ excerpt_separator: <!--more-->
 <br>
 
 <div style="text-align:center"><img src="/images/202005/waimao.jpeg" width="90%"></div>
+
+原标题：外贸工人的晚春
 
 文： 本刊记者 陈洋 发自北京 实习记者 雷寒冰 刘睿睿
 
