@@ -102,7 +102,9 @@ excerpt_separator: <!--more-->
 [v] “疫情热线 | 我因疫情遇到法律问题，该怎么办？”，https://mp.weixin.qq.com/s/w30X3600dDuyQIXDQENGWQ
 
 [vi] “我们抗疫的第27天||绿色蔷薇抗疫月报”，http://dwz.date/VWz
+
 [vii] “协作者之友 | 这60天，感谢有你陪我们一起战“疫”！ ”，https://mp.weixin.qq.com/s/e1_kPd1dUaV3dkTt02TvgQ
+
 [viii] “有爱！为环卫工人子女送上81台网课用电脑”，http://dwz.date/VWH
 
 #### 第三部分：
