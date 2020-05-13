@@ -95,19 +95,19 @@ excerpt_separator: <!--more-->
 
 #### 第二部分：
 
-[i] “看见女性劳动者|07”，https://mp.weixin.qq.com/s/z4irgU2CDcOmzQ9adXHSkA
+[i] “看见女性劳动者｜07”，https://mp.weixin.qq.com/s/z4irgU2CDcOmzQ9adXHSkA
 
 [ii] “乐行社会工作服务中心2020年2月工作简报”，http://dwz.date/VWx
 
-[iii] “携手共进 | 同耕启动心理支持热线”，https://mp.weixin.qq.com/s/FbrTYxGKYBMhjDuYTCpopQ
+[iii] “携手共进｜同耕启动心理支持热线”，https://mp.weixin.qq.com/s/FbrTYxGKYBMhjDuYTCpopQ
 
-[iv] “2020年2月砥砺月报 | 抗疫月志”，https://mp.weixin.qq.com/s/AilZeqPToccKZYr-FM2lgA
+[iv] “2020年2月砥砺月报｜抗疫月志”，https://mp.weixin.qq.com/s/AilZeqPToccKZYr-FM2lgA
 
-[v] “疫情热线 | 我因疫情遇到法律问题，该怎么办？”，https://mp.weixin.qq.com/s/w30X3600dDuyQIXDQENGWQ
+[v] “疫情热线｜我因疫情遇到法律问题，该怎么办？”，https://mp.weixin.qq.com/s/w30X3600dDuyQIXDQENGWQ
 
-[vi] “我们抗疫的第27天||绿色蔷薇抗疫月报”，http://dwz.date/VWz
+[vi] “我们抗疫的第27天｜绿色蔷薇抗疫月报”，http://dwz.date/VWz
 
-[vii] “协作者之友 | 这60天，感谢有你陪我们一起战“疫”！ ”，https://mp.weixin.qq.com/s/e1_kPd1dUaV3dkTt02TvgQ
+[vii] “协作者之友｜这60天，感谢有你陪我们一起战“疫”！ ”，https://mp.weixin.qq.com/s/e1_kPd1dUaV3dkTt02TvgQ
 
 [viii] “有爱！为环卫工人子女送上81台网课用电脑”，http://dwz.date/VWH
 
