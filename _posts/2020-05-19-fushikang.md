@@ -2,7 +2,7 @@
 template: post
 title: "富士康工人被大量辞退&nbsp;|&nbsp;疫情新闻"
 date: 2020-05-19
-tags: [baogao]
+tags: [xinwen]
 image:
   teaser: /202005/fushikang.jpeg
 excerpt_separator: <!--more-->
