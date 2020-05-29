@@ -2,7 +2,12 @@
   <h5><span>{{ site.data.messages.locales[site.locale].toc }}</span></h5>
   <ul class="menu-item">
     {% for link in site.data.navigation %}<li>
-      <a href="{{ site.url }}{{ link.url }}">
+        {% if link.url contains 'http' %}
+        {% assign domain = '' %}
+        {% else %}
+        {% assign domain = site.url %}
+    {% endif %}
+      <a href="{{ domain }}{{ link.url }}" {% if link.url contains 'http' %}target="_blank"{% endif %}></a>
         <div  style="font-size:24px">{{ link.title }}</div>
       </a>
     </li>{% endfor %}
